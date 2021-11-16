@@ -1,0 +1,4 @@
+//修改组件默认主题颜色
+$--color-primary: #3977FF;
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
